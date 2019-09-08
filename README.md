@@ -9,8 +9,19 @@
 - Institute name
 - Image
 - Address
-###  3.Deper
-#### 3. Admission
+
+#### 3.Acadamy 
+- Department
+  - Technology
+- Semester
+  - 1st_8th
+- Shift 
+  - Morning 
+  - Afternoon
+  
+#### 4. Admission
 - Student Admission
 - Techer Registration Form
-#### 4. 
+
+#### 5.Setup Acadamey With Student
+-  
