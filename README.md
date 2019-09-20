@@ -18,6 +18,12 @@
 - Shift 
   - Morning 
   - Afternoon
+- Subject
+  - Name
+  - Code 
+  - Department
+  - Semester
+  
   
 #### 4. Admission
 - Student Admission
