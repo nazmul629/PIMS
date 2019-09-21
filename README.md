@@ -1,4 +1,4 @@
-## PIMS Thats means Polytechnic Institute Management System
+## (PIMS) Thats means Polytechnic Institute Management System
 
 ## Useing Technology
 - Python3 
