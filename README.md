@@ -1,5 +1,13 @@
 ## PIMS Thats means Polytechnic Institute Management System
 
+## Useing Technology
+- Python3 
+- Django 2.x
+- JavaScript
+- PostGraset SQL
+- HTML5
+- CSS3
+
 ## Features 
 #### 1. Institute Information
 - Email
