@@ -28,6 +28,17 @@ class Semester(models.Model):
     def __str__(self):
         return self.spelling 
 
+
+class Shift(models.Model):
+    spelling = models.CharField(max_length=100)
+    number = models.IntegerField()
+
+    class Meta:
+        unique_together = ('spelling', 'number',)
+    
+    def __str__(self):
+        return self.spelling 
+
 class Subjects(models.Model):
     name = models.CharField(max_length=100)
     code = models.IntegerField()
